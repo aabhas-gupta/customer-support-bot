@@ -1,0 +1,82 @@
+SHOPNOW FREQUENTLY ASKED QUESTIONS
+
+--- ACCOUNT & ORDERS ---
+
+Q: How do I create an account?
+A: Click "Sign Up" at the top right of shopnow.com. Enter your email, create a password, and verify your email address. You can also sign up using your Google or Apple account.
+
+Q: I forgot my password. How do I reset it?
+A: Click "Sign In" then "Forgot Password". Enter your email address and we will send a reset link within 5 minutes. Check your spam folder if you do not see it.
+
+Q: Can I place an order without creating an account?
+A: Yes. Select "Guest Checkout" at checkout. However, creating an account lets you track orders, save addresses, and earn loyalty points.
+
+Q: How do I track my order?
+A: You will receive a tracking email once your order ships. You can also track at shopnow.com/track using your order number and email address.
+
+Q: Can I change or cancel my order after placing it?
+A: You can cancel or modify your order within 1 hour of placing it. After that, the order enters processing and cannot be changed. Contact support immediately if you need to make changes.
+
+Q: My order shows delivered but I have not received it. What do I do?
+A: First check around your property and with neighbors. Wait 24 hours as packages are sometimes marked delivered early. If still missing after 24 hours, contact us and we will file a claim with the carrier.
+
+Q: Do you offer gift wrapping?
+A: Yes! Select gift wrapping at checkout for $4.99. You can also include a personalized gift message for free.
+
+--- PAYMENTS ---
+
+Q: What payment methods do you accept?
+A: We accept Visa, Mastercard, American Express, Discover, PayPal, Apple Pay, Google Pay, and ShopNow Store Credit. We do not accept checks or money orders.
+
+Q: Is my payment information secure?
+A: Yes. We use SSL encryption and are PCI DSS compliant. We never store your full credit card number.
+
+Q: Why was my payment declined?
+A: Common reasons include incorrect card details, insufficient funds, or your bank blocking the transaction. Try a different payment method or contact your bank. If the issue persists, contact our support team.
+
+Q: Do you offer buy now, pay later?
+A: Yes! We offer installment payments through Klarna and Afterpay on orders over $50. Select your preferred option at checkout.
+
+Q: Do you charge sales tax?
+A: Sales tax is calculated based on your shipping address in accordance with local tax laws. Tax amount is shown at checkout before payment.
+
+--- PRODUCTS ---
+
+Q: Are your products authentic?
+A: Yes. ShopNow is an authorized retailer for all brands we carry. We guarantee all products are 100% authentic.
+
+Q: How do I find my size?
+A: Each product page has a size guide link. If you are between sizes, we recommend sizing up. Contact us if you need help choosing.
+
+Q: A product I want is out of stock. Will it come back?
+A: Use the "Notify Me" button on the product page to get an email when it restocks. Most popular items restock within 2-4 weeks.
+
+Q: Can I reserve an item that is currently out of stock?
+A: We do not offer reservations. Use the "Notify Me" feature and purchase as soon as you receive the restock notification.
+
+Q: Do products come with a warranty?
+A: Electronics come with the manufacturer's warranty. Most other products have our 30-day satisfaction guarantee. Extended warranty options are available at checkout for electronics.
+
+--- PROMOTIONS & LOYALTY ---
+
+Q: How do I apply a promo code?
+A: Enter your promo code in the "Discount Code" field at checkout. Only one promo code can be applied per order. Promo codes cannot be combined with other offers unless stated.
+
+Q: Why is my promo code not working?
+A: Check the expiry date, minimum order requirement, and excluded items. Some codes are single-use and may already have been redeemed. Contact support if the code should be valid.
+
+Q: How does the ShopNow Rewards program work?
+A: Earn 1 point for every $1 spent. 100 points = $1 store credit. Points expire after 12 months of account inactivity. Gold members (500+ points) get free standard shipping on every order.
+
+Q: Do I earn points on sale items?
+A: Yes, points are earned on the final purchase price including sale items, but excluding shipping and taxes.
+
+--- CONTACT & SUPPORT ---
+
+Q: How do I contact customer support?
+A: Live chat: Available Monday-Friday 9AM-8PM EST and Saturday 10AM-6PM EST.
+   Email: support@shopnow.com (response within 24 hours).
+   Phone: 1-800-SHOPNOW (1-800-746-7669) Monday-Friday 9AM-6PM EST.
+
+Q: How long does it take to get a response from support?
+A: Live chat: immediate. Email: within 24 hours (48 hours on weekends). Phone: average wait time under 5 minutes during business hours.

@@ -1,0 +1,110 @@
+SHOPNOW PRODUCT CATALOG
+
+--- ELECTRONICS ---
+
+Product: ProSound Wireless Headphones X1
+SKU: ELEC-001
+Price: $129.99
+Description: Over-ear noise-cancelling headphones with 40-hour battery life, Bluetooth 5.3, and foldable design. Compatible with iOS and Android. Comes with carrying case and USB-C charging cable.
+Colors: Midnight Black, Pearl White, Navy Blue
+Warranty: 1 year manufacturer warranty
+Return window: 15 days
+
+Product: SwiftCharge 65W USB-C Hub
+SKU: ELEC-002
+Price: $49.99
+Description: 7-in-1 USB-C hub with 65W power delivery, 4K HDMI, 2x USB-A 3.0, SD card reader, and Gigabit Ethernet. Compatible with MacBook, iPad Pro, and all USB-C laptops.
+Colors: Space Gray
+Warranty: 1 year manufacturer warranty
+
+Product: FitTrack Pro Smartwatch
+SKU: ELEC-003
+Price: $199.99
+Description: Health and fitness smartwatch with heart rate monitoring, SpO2 sensor, GPS, 7-day battery, and 50m water resistance. Works with iOS 14+ and Android 8+.
+Colors: Black, Rose Gold, Forest Green
+Warranty: 1 year manufacturer warranty
+Return window: 15 days
+
+Product: ClearView 4K Webcam
+SKU: ELEC-004
+Price: $89.99
+Description: 4K UHD webcam with built-in ring light, auto-focus, dual noise-cancelling microphones. Plug-and-play USB-A. Compatible with Zoom, Teams, and all major platforms.
+Colors: Black
+
+--- CLOTHING ---
+
+Product: CloudWalk Running Shoes
+SKU: CLTH-001
+Price: $84.99
+Description: Lightweight breathable running shoes with memory foam insole and anti-slip rubber sole. Machine washable.
+Sizes: Men's 7-14, Women's 5-12 (half sizes available)
+Colors: White/Blue, Black/Red, Gray/Orange
+
+Product: AllDay Comfort Hoodie
+SKU: CLTH-002
+Price: $44.99
+Description: 80% cotton, 20% polyester fleece hoodie. Kangaroo pocket, adjustable drawstring, ribbed cuffs. Pre-shrunk. Machine washable cold.
+Sizes: XS, S, M, L, XL, 2XL, 3XL
+Colors: Charcoal, Navy, Forest Green, Burgundy, Black, Heather Gray
+
+Product: FlexFit Yoga Pants
+SKU: CLTH-003
+Price: $39.99
+Description: 4-way stretch high-waist yoga pants with hidden waistband pocket. Moisture-wicking, squat-proof. Available in 7/8 and full length.
+Sizes: XS, S, M, L, XL
+Colors: Black, Dusty Rose, Cobalt Blue, Olive
+
+Product: UltraShield Rain Jacket
+SKU: CLTH-004
+Price: $79.99
+Description: Waterproof and windproof packable rain jacket. 10,000mm waterproof rating. Adjustable hood, sealed seams, two zip pockets, and stuff sack included.
+Sizes: XS, S, M, L, XL, 2XL
+Colors: Yellow, Navy, Olive
+
+--- HOME & KITCHEN ---
+
+Product: BrewMaster Coffee Maker
+SKU: HOME-001
+Price: $59.99
+Description: 12-cup programmable drip coffee maker with built-in grinder, 24-hour timer, and keep-warm plate. Removable water reservoir. BPA-free.
+Colors: Stainless Steel, Matte Black
+
+Product: AirFresh 5L Air Fryer
+SKU: HOME-002
+Price: $79.99
+Description: 5-litre digital air fryer with 8 preset cooking modes, 1700W, non-stick basket, and digital touchscreen. Dishwasher-safe parts.
+Colors: Black, White
+
+Product: SleepWell Weighted Blanket
+SKU: HOME-003
+Price: $64.99
+Options: 10 lbs ($64.99), 15 lbs ($74.99), 20 lbs ($84.99)
+Description: Premium weighted blanket with glass bead filling and breathable cotton cover. Removable, machine-washable cover. Recommended weight: 10% of body weight.
+Colors: Gray, Navy, Blush Pink
+
+Product: QuickSet Bamboo Knife Set
+SKU: HOME-004
+Price: $54.99
+Description: 15-piece knife set including chef, bread, carving, utility, and paring knives with matching bamboo block. High-carbon stainless steel blades. Hand wash only.
+
+--- BEAUTY & PERSONAL CARE ---
+
+Product: GlowUp Vitamin C Serum
+SKU: BEAU-001
+Price: $34.99
+Description: 20% Vitamin C brightening serum with hyaluronic acid and niacinamide. Dermatologist tested, fragrance-free, cruelty-free. 1 fl oz / 30ml. For all skin types.
+
+Product: ProStyle Hair Dryer 2000W
+SKU: BEAU-002
+Price: $44.99
+Description: Professional 2000W ionic hair dryer with 3 heat settings, 2 speed settings, cool shot button, and concentrator nozzle. 9-foot cord.
+Colors: Black/Gold, White/Rose Gold
+Note: Non-returnable if used (hygiene policy)
+
+--- PRICING & AVAILABILITY NOTES ---
+
+All prices are in USD and subject to change.
+Items marked with an asterisk (*) are eligible for ShopNow Rewards points.
+Availability shown on individual product pages is real-time.
+Bundle discounts are available for select product combinations — check the product page for details.
+Price match guarantee: if you find the same item cheaper at a major retailer within 14 days, we will match the price. Contact support with proof.
